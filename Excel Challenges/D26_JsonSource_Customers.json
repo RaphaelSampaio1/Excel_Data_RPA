@@ -1,0 +1,32 @@
+[
+  {
+    "ID":1,
+    "Name":"Customer 1",
+    "City":"Porto",
+    "Active":false
+  },
+  {
+    "ID":2,
+    "Name":"Customer 2",
+    "City":"Braga",
+    "Active":true
+  },
+  {
+    "ID":3,
+    "Name":"Customer 3",
+    "City":"Porto",
+    "Active":false
+  },
+  {
+    "ID":4,
+    "Name":"Customer 4",
+    "City":"Lisbon",
+    "Active":true
+  },
+  {
+    "ID":5,
+    "Name":"Customer 5",
+    "City":"Porto",
+    "Active":false
+  }
+]
